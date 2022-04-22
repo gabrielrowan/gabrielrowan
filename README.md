@@ -28,9 +28,6 @@
 
 **My Portfolio**
 
-
-![This is an image](https://img.shields.io/badge/My-Portfolio-blueviolet)
-
 https://gabrielrowan.github.io/
 
 
