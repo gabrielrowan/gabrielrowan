@@ -1,6 +1,5 @@
 
-# Hello! My name is Gabriel, I'm a junior software developer.  
-## Welcome to my Github :wave: 
+## Hello, Welcome to my Github :wave: 
 
 ## Background
 
