@@ -22,6 +22,10 @@ to understand how technology worked under the hood. After teaching myself coding
 
 As a French and Spanish graduate, I love learning languages! To me, learning programming languages offers the same syntatical and logical challenges that I enjoy when learning foreign languages 	:japanese_castle: 
 
+## Bootcamp Projects
+[WordNerd] ([https://pages.github.com/](https://github.com/iO-Academy/2022-dragons-wordle)https://github.com/iO-Academy/2022-dragons-wordle) 
+JavaScript game based on New York Times' Worlde
+
 
 
 
