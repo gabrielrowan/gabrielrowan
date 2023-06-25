@@ -27,7 +27,7 @@ to understand how technology worked under the hood
 
 ## Languages
 
-As a French and Spanish graduate, I love learning languages! To me, learning programming languages offers the same syntatical and logical challenges that I enjoy when learning foreign languages 	:japanese_castle: 
+As a French and Spanish graduate, I love learning languages! To me, learning programming languages offers the same syntactic and logical challenges that I enjoy when learning foreign languages 	:japanese_castle: 
 
 ## Bootcamp Projects
 :one: [WordNerd](https://github.com/iO-Academy/2022-dragons-wordle) -
