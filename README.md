@@ -6,7 +6,7 @@
 I decided to career change into software development after 3 years working in first line technical support. I loved the problem solving aspect and wanted
 to understand how technology worked under the hood. After teaching myself coding for 9 months, I decided to do a Full-Stack Development bootcamp at iO academy. 
 
-### Technologies I've worked with
+## Technologies I've worked with
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -17,6 +17,13 @@ to understand how technology worked under the hood. After teaching myself coding
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## Languages
+
+As a French and Spanish graduate, I love learning languages! To me, learning programming languages offers the same syntatical and logical challenges that I enjoy when learning foreign languages :fr: :es: :jp:
+
+
+
 
 
 
