@@ -4,7 +4,7 @@
 ## Background
 
 I decided to career change into software development after 3 years working in first line technical support. I loved the problem solving aspect and wanted
-to understand how technology worked under the hood. After teaching myself coding for 9 months, I decided to do a Full-Stack Development bootcamp at iO academy. 
+to understand how technology worked under the hood
 
 ## Technologies I've worked with
 
