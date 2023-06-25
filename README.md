@@ -20,7 +20,7 @@ to understand how technology worked under the hood. After teaching myself coding
 
 ## Languages
 
-As a French and Spanish graduate, I love learning languages! To me, learning programming languages offers the same syntatical and logical challenges that I enjoy when learning foreign languages :fr: :es: :jp:
+As a French and Spanish graduate, I love learning languages! To me, learning programming languages offers the same syntatical and logical challenges that I enjoy when learning foreign languages 	:japanese_castle: 
 
 
 
