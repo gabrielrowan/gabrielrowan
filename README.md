@@ -37,6 +37,11 @@ PHP based web application to search for dinosaur related information
 :three: [ProductsApi](https://github.com/iO-Academy/2022-jan-products-api) -
 RESTful API to preform CRUD operations on products using Node.js
 
+:four: [JobSearch](https://github.com/iO-Academy/2022-dragons-jobSearch)
+Job Search web application using React
+
+:five: [CarInsurance](https://github.com/gabrielrowan/carInsuranceAppMVC)
+Car insurance quote generating structured in MVC using PHP
 
 
 
