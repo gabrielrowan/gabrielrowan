@@ -5,7 +5,7 @@
 
 ## Background
 
-I decided to career change into software development after 3 years working in first line technical support. I loved the problem solving aspect and wanted
+I decided to career change into software development after 3 years working in technical support roles. I loved the problem solving aspect and wanted
 to understand how technology worked under the hood
 
 ## Technologies I've worked with
