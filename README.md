@@ -1,6 +1,8 @@
 
 # Hello, Welcome to my Github :wave: 
 
+![Introductory banner](banner.png)
+
 ## Background
 
 I decided to career change into software development after 3 years working in first line technical support. I loved the problem solving aspect and wanted
