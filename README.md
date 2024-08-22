@@ -1,13 +1,6 @@
 
 # Hello, Welcome to my Github :wave: 
 
-![Introductory banner](banner.png)
-
-## Background
-
-I decided to career change into software development after 3 years working in technical support roles. I loved the problem solving aspect and wanted
-to understand how technology worked under the hood
-
 ## Technologies I've worked with
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
