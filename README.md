@@ -27,23 +27,8 @@ to understand how technology worked under the hood
 
 ## Languages
 
-As a French and Spanish graduate, I love learning languages! To me, learning programming languages offers the same syntactic and logical challenges that I enjoy when learning foreign languages 	:japanese_castle: 
+As a French and Spanish graduate, I love learning languages! To me, learning programming languages offers the same syntactic and logical challenges that I enjoy when learning foreign languages 	
 
-## Bootcamp Projects
-:one: [WordNerd](https://github.com/iO-Academy/2022-dragons-wordle) -
-JavaScript game based on New York Times' Wordle
-
-:two: [DinoFinder](https://github.com/iO-Academy/2022-jan-dragons-DinoFinder) -
-PHP based web application to search for dinosaur related information
-
-:three: [ProductsApi](https://github.com/iO-Academy/2022-jan-products-api) -
-RESTful API to preform CRUD operations on products using Node.js
-
-:four: [JobSearch](https://github.com/iO-Academy/2022-dragons-jobSearch) -
-Job Search web application using React
-
-:five: [CarInsurance](https://github.com/gabrielrowan/carInsuranceAppMVC) -
-Car insurance quote generating structured in MVC using PHP
 
 
 
