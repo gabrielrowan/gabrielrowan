@@ -1,6 +1,8 @@
 
 # Hello, Welcome to my Github :wave: 
 
+![GABRIEL ROWAN name banner](https://github.com/user-attachments/assets/3281a76b-d4da-499d-b680-85ff5c1ad7b7)
+
 ## Technologies I work with: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
