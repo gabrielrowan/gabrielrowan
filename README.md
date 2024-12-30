@@ -26,11 +26,11 @@ This .csv file is then imported into Jupyter Notebooks and analysed for insights
 Uses BeautifulSoup, Pandas, JupyterNotebook & Python
 
 ## Front-End Projects: 
-- [My portfolio](https://github.com/gabrielrowan/Portfolio-2023)
+### [My portfolio](https://github.com/gabrielrowan/Portfolio-2023)
 
 Made using HTML, CSS & JavaScript, my portfolio gives an intro to who I am, includes some subtle animations and displays my projects 
 
-- [Shopping Cart App for a Farm Shop](https://github.com/gabrielrowan/Finleys-Farm-Shop-FE)
+### [Shopping Cart App for a Farm Shop](https://github.com/gabrielrowan/Finleys-Farm-Shop-FE)
 
 - This app uses HTML, CSS and JavaScript to display products for a Farm Shop. It allows you to add the products to a shopping cart
 and view and modify these products in the cart
