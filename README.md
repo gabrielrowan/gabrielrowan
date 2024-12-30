@@ -32,7 +32,7 @@ Made using HTML, CSS & JavaScript, my portfolio gives an intro to who I am, incl
 
 ### [Shopping Cart App for a Farm Shop](https://github.com/gabrielrowan/Finleys-Farm-Shop-FE)
 
-- This app uses HTML, CSS and JavaScript to display products for a Farm Shop. It allows you to add the products to a shopping cart
+This app uses HTML, CSS and JavaScript to display products for a Farm Shop. It allows you to add the products to a shopping cart
 and view and modify these products in the cart
 
 
