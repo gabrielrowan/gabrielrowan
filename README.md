@@ -5,18 +5,35 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ## Python Projects: 
-- [Django REST Products API](https://github.com/gabrielrowan/Django-Products-Rest-API)
-- [Languages Data - Web scraping and data analysis project](https://github.com/gabrielrowan/Foreign-Languages-Analysis)
+### [Django REST Products API](https://github.com/gabrielrowan/Django-Products-Rest-API)
+
+An API made using Django and the REST framework. It allows you to get, update, delete and view products
+
+### [Languages Data - Web scraping and data analysis project](https://github.com/gabrielrowan/Foreign-Languages-Analysis)
+
+This project web scrapes the table of the most commonly spoken languages from a Wikipedia page.
+It parses the html and outputs the relevant table data to a .csv file.
+This .csv file is then imported into Jupyter Notebooks and analysed for insights.
+
+Uses BeautifulSoup, Pandas, JupyterNotebook & Python
 
 ## Front-End Projects: 
 - [My portfolio](https://github.com/gabrielrowan/Portfolio-2023)
+
+Made using HTML, CSS & JavaScript, my portfolio gives an intro to who I am, includes some subtle animations and displays my projects 
+
 - [Shopping Cart App for a Farm Shop](https://github.com/gabrielrowan/Finleys-Farm-Shop-FE)
+
+- This app uses HTML, CSS and JavaScript to display products for a Farm Shop. It allows you to add the products to a shopping cart
+and view and modify these products in the cart
 
 
 
