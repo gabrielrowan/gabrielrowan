@@ -25,11 +25,7 @@ An API made using Django and the REST framework. It allows you to get, update, d
 
 ### [Languages Data - Web scraping and data analysis project](https://github.com/gabrielrowan/Foreign-Languages-Analysis)
 
-This project web scrapes the table of the most commonly spoken languages from a Wikipedia page.
-It parses the html and outputs the relevant table data to a .csv file.
-This .csv file is then imported into Jupyter Notebooks and analysed for insights.
-
-Uses BeautifulSoup, Pandas, JupyterNotebook & Python
+This project web scrapes the table of the most commonly spoken languages from a Wikipedia page using BeautifulSoup. It then analyses the data for insights.
 
 ## Front-End Projects: 
 ### [My portfolio](https://github.com/gabrielrowan/Portfolio-2023)
