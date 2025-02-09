@@ -23,6 +23,7 @@ Django project showing the relationships between books, authors and series of po
 ### [Sales Data Analysis](https://github.com/gabrielrowan/sales_analysis)
 
 Data analysis of a Kaggle Sales dataset, including visualisations of the top sales by country, most orders by continent and sales progression over time.
+Uses python, pandas & matplotlib
 
 ### [Django REST Products API](https://github.com/gabrielrowan/Django-Products-Rest-API)
 
