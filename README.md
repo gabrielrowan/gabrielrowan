@@ -15,6 +15,11 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ## Python Projects: 
+
+### [Booknook]([https://github.com/gabrielrowan/Foreign-Languages-Analysis](https://github.com/gabrielrowan/booknook_library)
+
+Django project showing the relationships between books, authors and series of popular fantasy fiction books.
+
 ### [Sales Data Analysis](https://github.com/gabrielrowan/sales_analysis)
 
 Data analysis of a Kaggle Sales dataset, including visualisations of the top sales by country, most orders by continent and sales progression over time.
@@ -23,9 +28,6 @@ Data analysis of a Kaggle Sales dataset, including visualisations of the top sal
 
 An API made using Django and the REST framework. It allows you to get, update, delete and view products
 
-### [Languages Data - Web scraping and data analysis project](https://github.com/gabrielrowan/Foreign-Languages-Analysis)
-
-This project web scrapes the table of the most commonly spoken languages from a Wikipedia page using BeautifulSoup. It then analyses the data for insights.
 
 ## Front-End Projects: 
 ### [My portfolio](https://github.com/gabrielrowan/Portfolio-2023)
