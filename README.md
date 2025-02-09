@@ -16,7 +16,7 @@
 
 ## Python Projects: 
 
-### [Booknook]([https://github.com/gabrielrowan/Foreign-Languages-Analysis](https://github.com/gabrielrowan/booknook_library)
+### [Booknook](https://github.com/gabrielrowan/Foreign-Languages-Analysis](https://github.com/gabrielrowan/booknook_library)
 
 Django project showing the relationships between books, authors and series of popular fantasy fiction books.
 
