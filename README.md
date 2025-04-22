@@ -1,7 +1,8 @@
 
 # Hello, Welcome to my Github :wave: 
 
-![GABRIEL ROWAN name banner](https://github.com/user-attachments/assets/3281a76b-d4da-499d-b680-85ff5c1ad7b7)
+![linkedin banner](https://github.com/user-attachments/assets/e7b2180f-16ac-4dd5-b602-83a398fe54c3)
+
 
 ## Technologies I work with: 
 
