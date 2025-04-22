@@ -16,23 +16,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-## Python Projects: 
+## Projects: 
 
 ### [Booknook](https://github.com/gabrielrowan/booknook_library)
 
 Django project showing the relationships between books, authors and series of popular fantasy fiction books.
 
-### [Sales Data Analysis](https://github.com/gabrielrowan/sales_analysis)
-
-Data analysis of a Kaggle Sales dataset, including visualisations of the top sales by country, most orders by continent and sales progression over time.
-Uses python, pandas & matplotlib
-
-### [Django REST Products API](https://github.com/gabrielrowan/Django-Products-Rest-API)
-
-An API made using Django and the REST framework. It allows you to get, update, delete and view products
-
-
-## Front-End Projects: 
 ### [My portfolio](https://github.com/gabrielrowan/Portfolio-2023)
 
 Made using HTML, CSS & JavaScript, my portfolio gives an intro to who I am, includes some subtle animations and displays my projects 
@@ -42,6 +31,10 @@ Made using HTML, CSS & JavaScript, my portfolio gives an intro to who I am, incl
 This app uses HTML, CSS and JavaScript to display products for a Farm Shop. It allows you to add the products to a shopping cart
 and view and modify these products in the cart. Automated browser testing is done using Pytest and Selenium
 
+### [Sales Data Analysis](https://github.com/gabrielrowan/sales_analysis)
+
+Data analysis of a Kaggle Sales dataset, including visualisations of the top sales by country, most orders by continent and sales progression over time.
+Uses python, pandas & matplotlib
 
 
 
