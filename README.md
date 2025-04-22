@@ -20,17 +20,23 @@
 
 ### [Booknook](https://github.com/gabrielrowan/booknook_library)
 
+**Python, Django, HTML, CSS, Bootstrap**
+
 Django project showing the relationships between books, authors and series of popular fantasy fiction books.
 
 ![Booknook screenshot](https://github.com/user-attachments/assets/4b648e59-1113-4365-9324-c7c1b0b03a70)
 
 ### [My portfolio](https://github.com/gabrielrowan/Portfolio-2023)
 
+**HTML, CSS, JavaScript**
+
 Made using HTML, CSS & JavaScript, my portfolio gives an intro to who I am, includes some subtle animations and displays my projects 
 
 ![Portfolio Project screenshot](https://github.com/user-attachments/assets/87c2d265-b8f7-4b34-9d0f-4376045e779a)
 
 ### [Shopping Cart App for a Farm Shop](https://github.com/gabrielrowan/Finleys-Farm-Shop-FE)
+
+**HTML, CSS, JavaScript**
 
 This app uses HTML, CSS and JavaScript to display products for a Farm Shop. It allows you to add the products to a shopping cart
 and view and modify these products in the cart. Automated browser testing is done using Pytest and Selenium
@@ -40,9 +46,10 @@ and view and modify these products in the cart. Automated browser testing is don
 
 ### [Sales Data Analysis](https://github.com/gabrielrowan/sales_analysis)
 
+**Python, Pandas, Matplotlib**
+
 Data analysis of a Kaggle Sales dataset, including visualisations of the top sales by country, most orders by continent and sales progression over time.
 Uses python, pandas & matplotlib
-
 
 ![sales_ranked_per_country](https://github.com/user-attachments/assets/671f0e94-c6a3-41a9-9581-a679386e8420)
 
