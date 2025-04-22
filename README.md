@@ -35,14 +35,16 @@ Made using HTML, CSS & JavaScript, my portfolio gives an intro to who I am, incl
 This app uses HTML, CSS and JavaScript to display products for a Farm Shop. It allows you to add the products to a shopping cart
 and view and modify these products in the cart. Automated browser testing is done using Pytest and Selenium
 
-![shopping cart app - mobile](https://github.com/user-attachments/assets/41c2e8d5-b7be-42b9-b8ed-8557930c0254)
+![finleys project](https://github.com/user-attachments/assets/f751df4b-6926-4db6-8277-b1ba6fc39323)
+
 
 ### [Sales Data Analysis](https://github.com/gabrielrowan/sales_analysis)
 
 Data analysis of a Kaggle Sales dataset, including visualisations of the top sales by country, most orders by continent and sales progression over time.
 Uses python, pandas & matplotlib
 
-![Data analysis project](https://github.com/user-attachments/assets/77fc2b44-966a-4e3a-82f9-d4e678a1f61d)
+
+![sales_ranked_per_country](https://github.com/user-attachments/assets/671f0e94-c6a3-41a9-9581-a679386e8420)
 
 
 
