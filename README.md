@@ -23,6 +23,7 @@
 (**Python, Django, Open AI API, HTML, CSS, Bootstrap**)
 
 Django project showing the relationships between books, authors and series of popular fantasy fiction books.
+Uses the Open AI API to generate ratings and reviews.
 
 ![Booknook screenshot](https://github.com/user-attachments/assets/4b648e59-1113-4365-9324-c7c1b0b03a70)
 
