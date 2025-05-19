@@ -20,7 +20,7 @@
 
 ### [Booknook](https://github.com/gabrielrowan/booknook_library)
 
-(**Python, Django, HTML, CSS, Bootstrap**)
+(**Python, Django, Open AI API, HTML, CSS, Bootstrap**)
 
 Django project showing the relationships between books, authors and series of popular fantasy fiction books.
 
